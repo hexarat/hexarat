@@ -1,5 +1,16 @@
-Hello, my name is Arlou
+# Hello, my name is Arlou
 I'm currently learning Front-end web development.
+
+# Editors:
+- Visual Studio Code
+- Sublime Text
+
+# Language
+- C/C++
+- Java
+- HTML/CSS/JAVASCRIPT
+- PHP
+- Python
 
 <!---
 hexarat/hexarat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
