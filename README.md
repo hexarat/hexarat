@@ -1,5 +1,5 @@
 # Hello, my name is Arlou
-I'm currently learning Front-end web development.
+I'm currently learning Cloud Development.
 
 # Editors:
 - Visual Studio Code
